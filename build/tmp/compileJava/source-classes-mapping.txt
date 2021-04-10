@@ -1,0 +1,12 @@
+choucair/automatizacion/reto/tasks/OpenUp.java
+ choucair.automatizacion.reto.tasks.OpenUp
+choucair/automatizacion/reto/userinterface/PageUtest.java
+ choucair.automatizacion.reto.userinterface.PageUtest
+choucair/automatizacion/reto/tasks/Register.java
+ choucair.automatizacion.reto.tasks.Register
+choucair/automatizacion/reto/tasks/TestAcademy.java
+ choucair.automatizacion.reto.tasks.TestAcademy
+choucair/automatizacion/reto/userinterface/RegisterUtest.java
+ choucair.automatizacion.reto.userinterface.RegisterUtest
+choucair/automatizacion/reto/userinterface/TestPage.java
+ choucair.automatizacion.reto.userinterface.TestPage

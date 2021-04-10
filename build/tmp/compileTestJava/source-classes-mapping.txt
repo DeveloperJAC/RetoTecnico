@@ -1,0 +1,4 @@
+choucair/automatizacion/reto/runners/RunnerTags.java
+ choucair.automatizacion.reto.runners.RunnerTags
+choucair/automatizacion/reto/stepdefinitions/choucairAutomatizacionStepDefinitions.java
+ choucair.automatizacion.reto.stepdefinitions.choucairAutomatizacionStepDefinitions
